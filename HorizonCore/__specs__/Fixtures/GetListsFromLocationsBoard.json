@@ -1,0 +1,34 @@
+[
+    {
+        "idBoard": "561f417e3c407c4eba06553a",
+        "id": "583e8d1a3ca7d065f289695d",
+        "name": "Locations",
+        "subscribed": false,
+        "closed": false,
+        "pos": 32767.75
+    },
+    {
+        "idBoard": "561f417e3c407c4eba06553a",
+        "id": "580de156b2bae3a90c40dd87",
+        "name": "To Buy",
+        "subscribed": false,
+        "closed": false,
+        "pos": 65535.5
+    },
+    {
+        "idBoard": "561f417e3c407c4eba06553a",
+        "id": "561f43201b313623eeb0de48",
+        "name": "Supermarket",
+        "subscribed": false,
+        "closed": false,
+        "pos": 131071
+    },
+    {
+        "idBoard": "561f417e3c407c4eba06553a",
+        "id": "571c4567d3da88abb6a54fdd",
+        "name": "Done",
+        "subscribed": false,
+        "closed": false,
+        "pos": 278527
+    }
+]

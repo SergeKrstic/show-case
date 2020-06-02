@@ -1,0 +1,58 @@
+[
+    {
+        "subscribed": false,
+        "closed": false,
+        "pos": 127.5,
+        "name": "Labels",
+        "idBoard": "56f4a476510f8f63a8aff26c",
+        "id": "56f4a4ce498293a8ddfcf5b2"
+    },
+    {
+        "subscribed": false,
+        "closed": false,
+        "pos": 159.375,
+        "name": "Kitchen",
+        "idBoard": "56f4a476510f8f63a8aff26c",
+        "id": "56f7b217c304a94a72f58e23"
+    },
+    {
+        "subscribed": false,
+        "closed": false,
+        "pos": 255,
+        "name": "Bathroom",
+        "idBoard": "56f4a476510f8f63a8aff26c",
+        "id": "56f22b2bf5e6c5198709f6b4"
+    },
+    {
+        "subscribed": false,
+        "closed": false,
+        "pos": 319,
+        "name": "Medicine",
+        "idBoard": "56f4a476510f8f63a8aff26c",
+        "id": "56fc8ab68240c3ec617c194d"
+    },
+    {
+        "subscribed": false,
+        "closed": false,
+        "pos": 351,
+        "name": "Vitamins",
+        "idBoard": "56f4a476510f8f63a8aff26c",
+        "id": "56fc98c3dc6c53fec1991114"
+    },
+    {
+        "subscribed": false,
+        "closed": false,
+        "pos": 383,
+        "name": "Laundry",
+        "idBoard": "56f4a476510f8f63a8aff26c",
+        "id": "56f4a48e225fa4cf34ad0788"
+    },
+    {
+        "subscribed": false,
+        "closed": false,
+        "pos": 511,
+        "name": "Other",
+        "idBoard": "56f4a476510f8f63a8aff26c",
+        "id": "56f22b2814a55804994320fd"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "pos": 32767,
+        "name": "Labels",
+        "id": "56f49f6b6373f317be4d7d17",
+        "closed": false,
+        "idBoard": "56f49db819d429e22c1a40ba",
+        "subscribed": false
+    },
+    {
+        "pos": 131071,
+        "name": "Fruit & Veg",
+        "id": "56f49ec3ed31914ae8d3eaf1",
+        "closed": false,
+        "idBoard": "56f49db819d429e22c1a40ba",
+        "subscribed": false
+    },
+    {
+        "pos": 262143,
+        "name": "Dairy",
+        "id": "56f49ed12508601e2d77ec75",
+        "closed": false,
+        "idBoard": "56f49db819d429e22c1a40ba",
+        "subscribed": false
+    },
+    {
+        "pos": 278527,
+        "name": "Meat",
+        "id": "56f49ed93bc1887c34ae4b22",
+        "closed": false,
+        "idBoard": "56f49db819d429e22c1a40ba",
+        "subscribed": false
+    },
+    {
+        "pos": 294911,
+        "name": "Drinks",
+        "id": "56f49edbe4cdb6d1ecbbb39b",
+        "closed": false,
+        "idBoard": "56f49db819d429e22c1a40ba",
+        "subscribed": false
+    },
+    {
+        "pos": 327679,
+        "name": "Freezer",
+        "id": "56f49ee3e9e89016ccd00ab2",
+        "closed": false,
+        "idBoard": "56f49db819d429e22c1a40ba",
+        "subscribed": false
+    },
+    {
+        "pos": 393215,
+        "name": "Cheeses",
+        "id": "58133edf3b77fa8a0bc0ce04",
+        "closed": false,
+        "idBoard": "56f49db819d429e22c1a40ba",
+        "subscribed": false
+    }
+]

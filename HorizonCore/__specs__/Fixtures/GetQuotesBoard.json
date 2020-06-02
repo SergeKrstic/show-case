@@ -1,0 +1,43 @@
+{
+    "id": "582da009ec5f65667b9a27d5",
+    "prefs": {
+        "canBePrivate": true,
+        "cardCovers": true,
+        "backgroundTile": false,
+        "cardAging": "regular",
+        "backgroundImage": null,
+        "canBeOrg": true,
+        "canBePublic": true,
+        "comments": "members",
+        "backgroundColor": "#B04632",
+        "background": "red",
+        "voting": "members",
+        "calendarFeedEnabled": false,
+        "backgroundImageScaled": null,
+        "permissionLevel": "private",
+        "invitations": "members",
+        "backgroundBrightness": "dark",
+        "selfJoin": false,
+        "canInvite": true
+    },
+    "name": "Quotes",
+    "descData": null,
+    "labelNames": {
+        "pink": "",
+        "yellow": "",
+        "green": "",
+        "black": "",
+        "purple": "",
+        "blue": "",
+        "red": "",
+        "lime": "",
+        "sky": "",
+        "orange": ""
+    },
+    "shortUrl": "https://trello.com/b/mrxaaK0n",
+    "desc": "",
+    "idOrganization": "5531fbc0f706f01822787129",
+    "url": "https://trello.com/b/mrxaaK0n/quotes",
+    "closed": false,
+    "pinned": false
+}

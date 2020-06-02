@@ -1,0 +1,37 @@
+[
+    {
+        "color": "black",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "name": "Don't care",
+        "id": "56f0abf1152c3f92fd84128c",
+        "uses": 28
+    },
+    {
+        "color": "red",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "name": "Out of stock",
+        "id": "56f0abd7152c3f92fd841271",
+        "uses": 7
+    },
+    {
+        "color": "orange",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "name": "Running low",
+        "id": "56fcab66152c3f92fda1ff51",
+        "uses": 2
+    },
+    {
+        "color": "green",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "name": "In stock",
+        "id": "56f0abb6152c3f92fd84123e",
+        "uses": 1
+    },
+    {
+        "color": "sky",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "name": "Buy",
+        "id": "56fdc7e5152c3f92fda587bd",
+        "uses": -1
+    }
+]

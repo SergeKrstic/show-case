@@ -1,0 +1,40 @@
+{
+    "name": "[Fridge] Beer",
+    "dateLastActivity": "2016-12-08T06:26:52.077Z",
+    "idList": "561f43201b313623eeb0de48",
+    "idMembers": [],
+    "idAttachmentCover": null,
+    "pos": 1327104,
+    "idLabels": [],
+    "stickers": [],
+    "manualCoverAttachment": false,
+    "labels": [],
+    "idShort": 610,
+    "shortUrl": "https://trello.com/c/Cru2RvfG",
+    "id": "5848fd2cc6d4354e46350029",
+    "closed": false,
+    "idBoard": "561f417e3c407c4eba06553a",
+    "badges": {
+        "attachments": 0,
+        "checkItemsChecked": 0,
+        "subscribed": false,
+        "dueComplete": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "checkItems": 0,
+        "description": true,
+        "fogbugz": "",
+        "comments": 0,
+        "due": null
+    },
+    "idChecklists": [],
+    "due": null,
+    "desc": "56f49cf7b9c635409c79fa4a",
+    "descData": {
+        "emoji": {}
+    },
+    "email": null,
+    "url": "https://trello.com/c/Cru2RvfG/610-fridge-beer",
+    "dueComplete": false,
+    "checkItemStates": []
+}

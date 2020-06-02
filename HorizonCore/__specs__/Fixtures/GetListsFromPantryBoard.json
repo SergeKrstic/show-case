@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Labels",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 98303,
+        "id": "56f08e8f450b8f3084b78acb",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Baking",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 294911,
+        "id": "56f0a6716de1eb2dfbfd23a6",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Dried herbs & spices",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 425983,
+        "id": "56f0a6db640d140e3861c2df",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Dried pasta & noodles",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 557055,
+        "id": "56f0a774a1cdaa0bc68438f6",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Rice, grains & pulses",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 622591,
+        "id": "56f0ac8565673519c64d2582",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Jams, spreads, mustards",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 688127,
+        "id": "56f0a7db38baf940ca2f746d",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Jarred foods",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 819199,
+        "id": "56f0a9b897076a71b0bfa983",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Nuts & seeds",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 1081343,
+        "id": "56f0aa2000ad8087c5b70bdd",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Pastes",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 1343487,
+        "id": "56f0aa8de88b0aba05b8e009",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Pickled & jarred vegetables",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 1474559,
+        "id": "56f0aafa8a52c401aad2d35e",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Oils",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 1605631,
+        "id": "56f0aa686d01c5bcb8158c76",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Vinegars",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 1671167,
+        "id": "56f0ad9b7ff11bc60a07a0fb",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Sauces",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 1736703,
+        "id": "56f0acc3484e75c1eb030892",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Tinned foods",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 1867775,
+        "id": "56f0ad2539dd59c9c527800c",
+        "subscribed": false,
+        "closed": false
+    },
+    {
+        "name": "Miscellaneous",
+        "idBoard": "56f08dc8a02610a9835c5a36",
+        "pos": 2064383,
+        "id": "56f08e743e305a0cc6fe0906",
+        "subscribed": false,
+        "closed": false
+    }
+]
